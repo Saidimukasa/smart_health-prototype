@@ -24,3 +24,4 @@ Then, in the project directory:
 2. Start the application in development mode by running `npm start`. 
 3. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 4. Login with the username and password of a Cerner sample patient.
+This is an easy to use applictionn made with react and Firebase
