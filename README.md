@@ -26,4 +26,4 @@ Then, in the project directory:
 4. Login with the username and password of a Cerner sample patient.
 This is an easy to use applictionn made with react and Firebase
 #
-gjszdfgjkgskfjsgf
+gjszdfgjkgskfjsgf,djgfagafk
